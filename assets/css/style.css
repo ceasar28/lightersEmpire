@@ -15,11 +15,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 
 a:hover {
-  color:#FFCF3F;
+  color:#BBA14F;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #FFCF3F;
+  background: #BBA14F;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #FFCF3F;
+  background: #BBA14F;
   color: #fff;
 }
 .back-to-top.active {
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
   top: -50px;
 }
 #topbar i {
-  color: #FFCF3F;
+  color: #BBA14F;
   line-height: 0;
 }
 #topbar i span {
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
-  background: #FFCF3F;
+  background: #BBA14F;
   color: #fff;
   border-radius: 50px;
   margin: 0 0 0 20px;
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
   white-space: nowrap;
 }
 .book-a-table-btn:hover {
-  background: #FFCF3F;
+  background: #BBA14F;
   color: #fff;
 }
 @media (max-width: 992px) {
@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 .navbar .dropdown ul {
   display: block;
@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -297,7 +297,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #433f39;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -323,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -375,7 +375,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 #hero h2 span {
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 #hero p {
   width: 80%;
@@ -443,10 +443,10 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   color: #fff;
-  border: 2px solid #FFCF3F;
+  border: 2px solid #BBA14F;
 }
 #hero .btn-menu:hover, #hero .btn-book:hover {
-  background: #FFCF3F;
+  background: #BBA14F;
   color: #fff;
 }
 @media (max-width: 768px) {
@@ -485,7 +485,7 @@ section {
   color: #5f5950;
 }
 .section-title h2 span {
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 .section-title p {
   margin: 15px auto 0 auto;
@@ -586,7 +586,7 @@ section {
 }
 .about .content ul i {
   font-size: 20px;
-  color: #FFCF3F;
+  color: #BBA14F;
   position: absolute;
   left: 0;
   top: 2px;
@@ -604,7 +604,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#FFCF3F 50%, rgba(255, 176, 59, 0.4) 52%);
+  background: radial-gradient(#BBA14F 50%, rgba(255, 176, 59, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -649,7 +649,7 @@ section {
   background: rgba(198, 16, 0, 0);
 }
 .about .play-btn:hover::after {
-  border-left: 15px solid #FFCF3F;
+  border-left: 15px solid #BBA14F;
   transform: scale(20);
 }
 .about .play-btn:hover::before {
@@ -718,7 +718,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #ffcf88;
+  color: #BBA14F;
 }
 .why-us .box h4 {
   font-size: 24px;
@@ -734,7 +734,7 @@ section {
   padding: 0;
 }
 .why-us .box:hover {
-  background: #FFCF3F;
+  background: #BBA14F;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -763,12 +763,12 @@ section {
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  border: 2px solid #FFCF3F;
+  border: 2px solid #BBA14F;
   border-radius: 50px;
 }
 .menu #menu-flters li:hover, .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #FFCF3F;
+  background: #BBA14F;
 }
 .menu #menu-flters li:last-child {
   margin-right: 0;
@@ -796,7 +796,7 @@ section {
   position: relative;
   z-index: 3;
   font-weight: 700;
-  color: #ff9b08;
+  color: #BBA14F;
 }
 .menu .menu-content span {
   background: #fff;
@@ -832,11 +832,11 @@ section {
   font-size: 15px;
 }
 .specials .nav-link:hover {
-  color: #FFCF3F;
+  color: #BBA14F
 }
 .specials .nav-link.active {
-  color: #FFCF3F;
-  border-color: #FFCF3F;
+  color: #BBA14F;
+  border-color: #BBA14F;
 }
 .specials .tab-pane.active {
   -webkit-animation: fadeIn 0.5s ease-out;
@@ -861,7 +861,7 @@ section {
   }
   .specials .nav-link.active {
     color: #fff;
-    background: #FFCF3F;
+    background: #BBA14F;
   }
 }
 
@@ -903,7 +903,7 @@ section {
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #ffb03b;
+  color: #BBA14F;
 }
 .events .event-item .price {
   font-size: 26px;
@@ -912,7 +912,7 @@ section {
   margin-bottom: 15px;
 }
 .events .event-item .price span {
-  border-bottom: 2px solid #FFCF3F;
+  border-bottom: 2px solid #BBA14F;
 }
 .events .event-item ul {
   list-style: none;
@@ -924,7 +924,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 .events .event-item p:last-child {
   margin-bottom: 0;
@@ -940,7 +940,7 @@ section {
   opacity: 1;
 }
 .events .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #FFCF3F;
+  background-color: #BBA14F;
 }
 
 /*--------------------------------------------------------------
@@ -1011,7 +1011,7 @@ section {
   padding: 10px 12px;
 }
 .book-a-table .php-email-form button[type=submit] {
-  background: #FFCF3F;
+  background: #BBA14F;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1019,7 +1019,7 @@ section {
   border-radius: 50px;
 }
 .book-a-table .php-email-form button[type=submit]:hover {
-  background: #ffa012;
+  background: #BBA14F;
 }
 
 /*--------------------------------------------------------------
@@ -1098,7 +1098,7 @@ section {
   display: block;
   width: 50px;
   height: 1px;
-  background: #ffcf88;
+  background: #BBA14F;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -1115,7 +1115,7 @@ section {
   color: #7a7368;
 }
 .chefs .member .social a:hover {
-  color: #FFCF3F;
+  color: #BBA14F;
 }
 .chefs .member .social i {
   font-size: 16px;
@@ -1192,7 +1192,7 @@ section {
   font-family: "Comic Neue", sans-serif;
 }
 .testimonials .testimonial-item .stars {
-  color: #FFCF3F;
+  color: #BBA14F;
   margin-bottom: 10px;
 }
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
@@ -1226,7 +1226,7 @@ section {
   opacity: 1;
 }
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #FFCF3F;
+  background-color: #BBA14F;
 }
 @media (min-width: 992px) {
   .testimonials .testimonial-item p {
@@ -1246,7 +1246,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: #FFCF3F;
+  color: #BBA14F;
   float: left;
   width: 44px;
   height: 44px;
@@ -1272,7 +1272,7 @@ section {
   color: #7a7368;
 }
 .contact .info:hover i {
-  background: #FFCF3F;
+  background: #BBA14F;
   color: #fff;
 }
 .contact .php-email-form {
@@ -1330,7 +1330,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #FFCF3F;
+  background: #BBA14F;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1338,7 +1338,7 @@ section {
   border-radius: 50px;
 }
 .contact .php-email-form button[type=submit]:hover {
-  background: #ffa012;
+  background: #BBA14F;
 }
 @-webkit-keyframes animate-loading {
   0% {
@@ -1370,7 +1370,7 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #FFCF3F;
+  color: #BBA14F;
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1399,7 +1399,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #FFCF3F;
+  background: #BBA14F;
 }
 #footer .copyright {
   margin: 0 0 5px 0;
